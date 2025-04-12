@@ -162,3 +162,4 @@ for user_id, num_friends in sorted_list:
     
 # Combined changes
 print("Local and remote changes")
+

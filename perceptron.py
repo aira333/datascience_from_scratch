@@ -1,7 +1,7 @@
 # implementation of the perceptron algorithm
 
 import numpy as np
-class perceptron:
+class Perceptron:
     def __init__(self, leraning_rate=0.01, n_iter=100):
         self.lr = leraning_rate
         self.iter = n_iter
